@@ -1,5 +1,4 @@
 # Medical-Data-Analysis-SQL
-# Medical-Data-Analysis-SQL
 
 ## Project Overview
 Analyzed healthcare data using SQL to explore patient demographics, hospital admissions, diagnoses, doctors, and medical records.
